@@ -1,0 +1,1083 @@
+﻿Log file open, 01/13/21 16:38:25
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: DevilishDiner
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.195272
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogXGEController: Cleaning working directory: C:/Users/jayde/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Engine.ini]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Engine.ini]
+[2021.01.13-16.38.25:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Engine.ini]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Engine.ini]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.01.13-16.38.25:469][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Engine.ini]
+[2021.01.13-16.38.25:469][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Engine.ini]
+[2021.01.13-16.38.25:483][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.13-16.38.25:483][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.13-16.38.25:484][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.13-16.38.25:484][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.13-16.38.25:484][  0]LogHAL: Display: Platform has ~ 16 GB [17098010624 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.13-16.38.25:484][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.13-16.38.25:484][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.13-16.38.25:484][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Scalability.ini]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.01.13-16.38.25:485][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.13-16.38.25:486][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.13-16.38.25:486][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.13-16.38.25:486][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.13-16.38.25:486][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Config/Windows/Engine.ini]
+[2021.01.13-16.38.25:486][  0]LogInit: Computer: JAYSPC
+[2021.01.13-16.38.25:486][  0]LogInit: User: jayde
+[2021.01.13-16.38.25:486][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.01.13-16.38.25:486][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.13-16.38.25:486][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.13-16.38.25:486][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.13-16.38.25:486][  0]LogMemory: Process Physical Memory: 135.80 MB used, 135.80 MB peak
+[2021.01.13-16.38.25:486][  0]LogMemory: Process Virtual Memory: 118.32 MB used, 118.32 MB peak
+[2021.01.13-16.38.25:486][  0]LogMemory: Physical Memory: 10187.20 MB used,  6118.73 MB free, 16305.93 MB total
+[2021.01.13-16.38.25:486][  0]LogMemory: Virtual Memory: 134199632.00 MB used,  18095.04 MB free, 134217728.00 MB total
+[2021.01.13-16.38.25:491][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.13-16.38.25:533][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.13-16.38.25:534][  0]LogInit: Using OS detected language (en-GB).
+[2021.01.13-16.38.25:534][  0]LogInit: Using OS detected locale (en-GB).
+[2021.01.13-16.38.25:536][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.01.13-16.38.25:693][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.13-16.38.25:705][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.01.13-16.38.25:735][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.13-16.38.25:735][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.13-16.38.25:920][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.13-16.38.25:920][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.13-16.38.25:920][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.13-16.38.25:920][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.13-16.38.26:029][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.01.13-16.38.26:029][  0]LogD3D11RHI:       8031/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.13-16.38.26:031][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.13-16.38.26:031][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.13-16.38.26:031][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.13-16.38.26:036][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.13-16.38.26:036][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.13-16.38.26:036][  0]LogWindows: EnumDisplayDevices:
+[2021.01.13-16.38.26:037][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2021.01.13-16.38.26:037][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2021.01.13-16.38.26:037][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.01.13-16.38.26:037][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.01.13-16.38.26:037][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.13-16.38.26:037][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.01.13-16.38.26:037][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2021.01.13-16.38.26:037][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2021.01.13-16.38.26:037][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.01.13-16.38.26:113][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.13-16.38.26:113][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.13-16.38.26:113][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.13-16.38.26:140][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.13-16.38.26:142][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.01.13-16.38.26:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.13-16.38.26:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.13-16.38.26:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.13-16.38.26:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.13-16.38.26:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.13-16.38.26:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.13-16.38.26:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.13-16.38.26:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.13-16.38.26:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.13-16.38.26:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.13-16.38.26:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.13-16.38.26:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.13-16.38.26:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.13-16.38.26:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.13-16.38.26:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.13-16.38.26:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.13-16.38.26:470][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.13-16.38.26:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.13-16.38.26:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.13-16.38.26:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.13-16.38.26:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.13-16.38.26:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.13-16.38.26:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.01.13-16.38.26:525][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.01.13-16.38.26:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.01.13-16.38.26:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.01.13-16.38.26:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.13-16.38.26:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.13-16.38.26:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.13-16.38.26:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.13-16.38.26:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.13-16.38.26:581][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.13-16.38.26:581][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.13-16.38.26:588][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.13-16.38.26:644][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.01.13-16.38.26:644][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Intermediate/Shaders/WorkingDirectory/25552/).
+[2021.01.13-16.38.26:644][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jayde/AppData/Local/Temp/UnrealShaderWorkingDir/AEE7B4DF423F765E0B48E683A8983AA6/'.
+[2021.01.13-16.38.26:644][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.13-16.38.26:644][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.13-16.38.27:301][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.13-16.38.27:346][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/jayde/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.13-16.38.27:346][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jayde/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.01.13-16.38.27:347][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.13-16.38.27:347][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.13-16.38.27:347][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.13-16.38.27:347][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.13-16.38.27:357][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.13-16.38.27:357][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.13-16.38.27:357][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.13-16.38.27:393][  0]LogDerivedDataCache: Speed tests for C:/Users/jayde/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2021.01.13-16.38.27:393][  0]LogDerivedDataCache: Display: Performance to C:/Users/jayde/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1454.00MBs, RandomWriteSpeed=26.61MBs. Assigned SpeedClass 'Local'
+[2021.01.13-16.38.27:394][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jayde/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.13-16.38.27:394][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.13-16.38.27:394][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.13-16.38.27:432][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.13-16.38.27:433][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.13-16.38.27:454][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.01.13-16.38.27:637][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.13-16.38.27:637][  0]LogInit: Active device profile: [00000204FB138900][00000204EE45DA00 49] Windows
+[2021.01.13-16.38.27:638][  0]LogInit: Profiles: [00000204FB138900][00000204EE45DA00 49] Windows, [00000204FB0E1900][00000204EE465B80 49] WindowsNoEditor, [00000204FB138D00][00000204F9465D00 49] WindowsServer, [00000204FB0E1600][00000204F94681C0 49] WindowsClient, [00000204FB13A600][00000204F946C340 49] IOS, [00000204FB0E0600][00000204EF21E4C0 49] iPadAir, [00000204FB13A100][00000204EF222640 49] iPadAir2, [00000204FB092B00][00000204EF22A900 49] IPadPro, [00000204FB092C00][00000204EF226940 49] iPadAir3, [00000204FB0E0D00][00000204EF22EAC0 49] iPadAir4, [00000204FB093000][00000204EF232C40 49] iPadMini2, [00000204FB0E0900][00000204EF236DC0 49] iPadMini3, [00000204FB092F00][00000204F05F4F40 49] iPadMini4, [00000204FB0E1F00][00000204F05F90C0 49] iPadMini5, [00000204FB0A2400][00000204F0601380 49] iPhone6, [00000204FB0A2500][00000204F05FD3C0 49] iPodTouch6, [00000204FB091700][00000204EE461640 49] iPhone7, [00000204FB091600][00000204F0605680 49] iPodTouch7, [00000204FB0A0E00][00000204F06097C0 49] iPhone5S, [00000204FB091500][00000204F060D900 49] iPhone6Plus, [00000204FB0A1200][00000204F0611A40 49] iPhone6S, [00000204FB090D00][00000204F0619BC0 49] iPhone6SPlus, [00000204FB0A2600][00000204F061DD40 49] iPhone7Plus, [00000204FB092300][00000204F0620200 49] iPhoneSE, [00000204FB0A2B00][00000204F0624380 49] iPhone8, [00000204FB093B00][00000204F0628500 49] iPhone8Plus, [00000204FB0A1F00][00000204F062C680 49] iPhoneX, [00000204FB091D00][00000204F0630800 49] iPhoneXS, [00000204FB0A0300][00000204F0634980 49] iPhoneXSMax, [00000204FB090E00][00000204FB480B00 49] iPhoneXR, [00000204FB0A3E00][00000204FB484C80 49] iPhone11, [00000204FB090B00][00000204FB488E00 49] iPhone11Pro, [00000204FB0A0600][00000204FB48CF80 49] iPhone11ProMax, [00000204FB093700][00000204FB491100 49] iPhoneSE2, [00000204FB0A1400][00000204FB495280 49] iPhone12Mini, [00000204FB092700][00000204FB499400 49] iPhone12, [00000204FB0A2D00][00000204FB49D580 49] iPhone12Pro, [00000204FB093C00][00000204FB4A1700 49] iPhone12ProMax, [00000204FB0A1B00][00000204F0615840 49] iPadPro105, [00000204FB0A2200][00000204FB4A5980 49] iPadPro129, [00000204FB13B000][00000204FB4A9AC0 49] iPadPro97, [00000204FB0A1500][00000204FB4B1C40 49] iPadPro2_129, [00000204FB138200][00000204FB4B4100 49] iPad5, [00000204FB0A1C00][00000204FB4B8280 49] iPad6, [00000204FB13AF00][00000204FB4BC400 49] iPad7, [00000204FB091100][00000204FB4C0580 49] iPad8, [00000204FB13A800][00000204FB4C4700 49] iPadPro11, [00000204FB093D00][00000204FB4C8880 49] iPadPro2_11, [00000204FB13A000][00000204FB4CCA00 49] iPadPro3_129, [00000204FB093200][00000204FB4D0B80 49] iPadPro4_129, [00000204FB139500][00000204FB4D4D00 49] AppleTV, [00000204FB090C00][00000204FB4D8E80 49] AppleTV4K, [00000204FB139B00][00000204FB4DD000 49] TVOS, [00000204FB091300][00000204FB4E1180 49] Mac, [00000204FB139A00][00000204FB4E5300 49] MacClient, [00000204FB091F00][00000204FB4E9480 49] MacNoEditor, [00000204FB13BA00][00000204FB4ED600 49] MacServer, [00000204FB091B00][00000204FB4F1780 49] Linux, [00000204FB138C00][00000204FB4AD8C0 49] LinuxNoEditor, [00000204FB090500][00000204FB4F5A00 49] LinuxAArch64NoEditor, [00000204FB139000][00000204FB4F9B40 49] LinuxClient, [00000204FB090700][00000204FB501CC0 49] LinuxAArch64Client, [00000204FB139100][00000204FB504180 49] LinuxServer, [00000204FB093400][00000204FB508300 49] LinuxAArch64Server, [00000204FB139D00][00000204FB50C480 49] Android, [00000204FB092500][00000204FB510600 49] Android_Low, [00000204FB13B200][00000204FB514780 49] Android_Mid, [00000204FB092D00][00000204FB518900 49] Android_High, [00000204FB13B600][00000204FB51CA80 49] Android_Default, [00000204FB091800][00000204FB520C00 49] Android_Adreno4xx, [00000204FB13B100][00000204FB524D80 49] Android_Adreno5xx_Low, [00000204FB090600][00000204FB528F00 49] Android_Adreno5xx, [00000204FB139900][00000204FB52D080 49] Android_Adreno6xx, [00000204FB090400][00000204FB531200 49] Android_Adreno6xx_Vulkan, [00000204FB13A900][00000204FB535380 49] Android_Mali_T6xx, [00000204FB092000][00000204FB539500 49] Android_Mali_T7xx, [00000204FB138300][00000204FB53D680 49] Android_Mali_T8xx, [00000204FB091200][00000204FB541800 49] Android_Mali_G71, [00000204FB138700][00000204FB4FD940 49] Android_Mali_G72, [00000204FB091E00][00000204FB545A80 49] Android_Mali_G72_Vulkan, [00000204FB13AC00][00000204FB549BC0 49] Android_Mali_G76, [00000204FB092900][00000204FB54DD00 49] Android_Mali_G76_Vulkan, [00000204FB13AE00][00000204FB5541C0 49] Android_Mali_G77, [00000204FB091900][00000204FB558340 49] Android_Mali_G77_Vulkan, [00000204FB13AB00][00000204FB55C4C0 49] Android_Vulkan_SM5, [00000204FB090300][00000204FB560640 49] Android_PowerVR_G6xxx, [00000204FB138500][00000204FB5647C0 49] Android_PowerVR_GT7xxx, [00000204FB0A3100][00000204FB568940 49] Android_PowerVR_GE8xxx, [00000204FB0E0500][00000204FB56CAC0 49] Android_PowerVR_GM9xxx, [00000204FB0A0500][00000204FB570C40 49] Android_PowerVR_GM9xxx_Vulkan, [00000204FB0E2500][00000204FB574DC0 49] Android_TegraK1, [00000204FB0A0D00][00000204FB578F40 49] Android_Unknown_Vulkan, [00000204FB0E2100][00000204FB57D0C0 49] Lumin, [00000204FB0A2E00][00000204FB581240 49] Lumin_Desktop, [00000204FB0E1400][00000204FB5853C0 49] HoloLens, 
+[2021.01.13-16.38.27:731][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.13-16.38.27:732][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.13-16.38.27:732][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.13-16.38.27:732][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.13-16.38.27:732][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.13-16.38.27:754][  0]LogNetVersion: DevilishDiner 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3045293835)
+[2021.01.13-16.38.28:135][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.01.13-16.38.28:186][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.049950 seconds
+[2021.01.13-16.38.28:191][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.01.13-16.38.28:191][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.01.13-16.38.28:191][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.13-16.38.28:435][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.13-16.38.28:464][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.13-16.38.28:603][  0]SourceControl: Source control is disabled
+[2021.01.13-16.38.28:603][  0]SourceControl: Source control is disabled
+[2021.01.13-16.38.28:610][  0]SourceControl: Source control is disabled
+[2021.01.13-16.38.28:612][  0]SourceControl: Source control is disabled
+[2021.01.13-16.38.28:620][  0]SourceControl: Source control is disabled
+[2021.01.13-16.38.28:626][  0]LogUProjectInfo: Found projects:
+[2021.01.13-16.38.28:827][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.13-16.38.28:853][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.13-16.38.28:853][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.13-16.38.28:890][  0]LogCollectionManager: Loaded 0 collections in 0.000627 seconds
+[2021.01.13-16.38.28:911][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Collections/' took 0.00s
+[2021.01.13-16.38.28:911][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/Developers/jayde/Collections/' took 0.00s
+[2021.01.13-16.38.28:911][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/Collections/' took 0.00s
+[2021.01.13-16.38.28:911][  0]LogOcInput: OculusInput pre-init called
+[2021.01.13-16.38.28:920][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.13-16.38.28:920][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.13-16.38.28:964][  0]LogEngine: Initializing Engine...
+[2021.01.13-16.38.28:965][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.13-16.38.28:965][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.13-16.38.28:965][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.13-16.38.29:069][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.13-16.38.29:075][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.13-16.38.29:087][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.01.13-16.38.29:090][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.01.13-16.38.29:090][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.01.13-16.38.29:090][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.13-16.38.29:090][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.13-16.38.29:090][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.13-16.38.29:090][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.13-16.38.29:090][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.13-16.38.29:090][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.13-16.38.29:090][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.13-16.38.29:090][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.13-16.38.29:090][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.13-16.38.29:090][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.13-16.38.29:102][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.13-16.38.29:102][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.13-16.38.29:126][  0]LogAudioMixer: Display: Using Audio Device Speakers (Yeti Stereo Microphone)
+[2021.01.13-16.38.29:130][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.13-16.38.29:132][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.13-16.38.29:132][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.13-16.38.29:133][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.13-16.38.29:133][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.01.13-16.38.29:133][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.01.13-16.38.29:134][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.01.13-16.38.29:134][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.01.13-16.38.29:134][  0]LogInit: FAudioDevice initialized.
+[2021.01.13-16.38.29:134][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.01.13-16.38.29:134][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.13-16.38.29:173][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/jayde/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.01.13-16.38.29:178][  0]LogInit: Texture streaming: Enabled
+[2021.01.13-16.38.29:188][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.01.13-16.38.29:192][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.13-16.38.29:192][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.13-16.38.29:194][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.13-16.38.29:215][  0]LogInit: Transaction tracking system initialized
+[2021.01.13-16.38.29:233][  0]BlueprintLog: New page: Editor Load
+[2021.01.13-16.38.29:316][  0]LocalizationService: Localization service is disabled
+[2021.01.13-16.38.29:335][  0]TimingProfiler: Initialize
+[2021.01.13-16.38.29:336][  0]TimingProfiler: OnSessionChanged
+[2021.01.13-16.38.29:336][  0]LoadingProfiler: Initialize
+[2021.01.13-16.38.29:336][  0]LoadingProfiler: OnSessionChanged
+[2021.01.13-16.38.29:336][  0]NetworkingProfiler: Initialize
+[2021.01.13-16.38.29:336][  0]NetworkingProfiler: OnSessionChanged
+[2021.01.13-16.38.29:336][  0]MemoryProfiler: Initialize
+[2021.01.13-16.38.29:336][  0]MemoryProfiler: OnSessionChanged
+[2021.01.13-16.38.29:464][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.01.13-16.38.29:464][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.13-16.38.29:600][  0]LogFileCache: Scanning file cache for directory 'D:/Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/' took 0.00s
+[2021.01.13-16.38.29:766][  0]SourceControl: Source control is disabled
+[2021.01.13-16.38.29:766][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.337
+[2021.01.13-16.38.29:766][  0]Cmd: MAP LOAD FILE="../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.13-16.38.29:766][  0]LogEditorServer: Warning: Can't find file '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.01.13-16.38.29:766][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.13-16.38.29:766][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2021.01.13-16.38.29:766][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.000
+[2021.01.13-16.38.29:768][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.339
+[2021.01.13-16.38.29:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-16.38.29:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-16.38.29:948][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-16.38.29:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.13-16.38.29:961][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.13-16.38.29:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.13-16.38.29:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.01.13-16.38.29:962][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.13-16.38.29:962][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:962][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.13-16.38.29:962][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.01.13-16.38.29:962][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.01.13-16.38.29:962][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:962][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.01.13-16.38.29:962][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.01.13-16.38.29:963][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.13-16.38.29:963][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:963][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.13-16.38.29:963][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.01.13-16.38.29:964][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.13-16.38.29:964][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:964][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.13-16.38.29:964][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.01.13-16.38.29:964][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.13-16.38.29:964][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.13-16.38.29:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.01.13-16.38.29:965][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.13-16.38.29:965][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:965][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.13-16.38.29:965][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.01.13-16.38.29:966][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.13-16.38.29:966][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:966][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.13-16.38.29:966][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.01.13-16.38.29:967][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.13-16.38.29:967][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:967][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.13-16.38.29:967][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.01.13-16.38.29:968][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.01.13-16.38.29:968][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:968][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.01.13-16.38.29:968][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.01.13-16.38.29:968][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.01.13-16.38.29:968][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:968][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.01.13-16.38.29:968][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.01.13-16.38.29:969][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.13-16.38.29:969][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:969][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.13-16.38.29:969][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.01.13-16.38.29:970][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.13-16.38.29:970][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:970][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.13-16.38.29:970][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.01.13-16.38.29:971][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.13-16.38.29:971][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:971][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.13-16.38.29:971][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.01.13-16.38.29:972][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.01.13-16.38.29:972][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:972][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.01.13-16.38.29:972][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.01.13-16.38.29:973][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.13-16.38.29:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.13-16.38.29:973][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.01.13-16.38.29:973][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.01.13-16.38.29:973][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:973][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.01.13-16.38.29:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.01.13-16.38.29:974][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.13-16.38.29:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.13-16.38.29:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.01.13-16.38.29:975][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.13-16.38.29:975][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:975][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.13-16.38.29:975][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.01.13-16.38.29:977][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.13-16.38.29:977][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:977][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.13-16.38.29:977][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.01.13-16.38.29:977][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.01.13-16.38.29:977][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:977][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.01.13-16.38.29:977][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.01.13-16.38.29:978][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.01.13-16.38.29:978][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:978][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.01.13-16.38.29:978][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.01.13-16.38.29:979][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.01.13-16.38.29:979][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:979][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.01.13-16.38.29:979][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.01.13-16.38.29:980][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.01.13-16.38.29:980][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:980][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.01.13-16.38.29:980][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.01.13-16.38.29:981][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.01.13-16.38.29:981][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:981][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.01.13-16.38.29:981][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.01.13-16.38.29:981][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.01.13-16.38.29:981][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.01.13-16.38.29:981][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.01.13-16.38.29:981][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.01.13-16.38.30:105][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.13-16.38.30:107][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.13-16.38.30:110][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.13-16.38.30:211][  0]LogRenderer: Reallocating scene render targets to support 1232x560 Format 10 NumSamples 1 (Frame:1).
+[2021.01.13-16.38.30:531][  0]LogLoad: (Engine Initialization) Total time: 6.10 seconds
+[2021.01.13-16.38.30:531][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.13-16.38.30:531][  0]LogInit: First time updating LLM stats...
+[2021.01.13-16.38.30:582][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.13-16.38.31:560][111]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.13-16.38.36:154][563]LogAssetRegistry: Asset discovery search completed in 8.7010 seconds
+[2021.01.13-16.38.36:155][563]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2021.01.13-16.38.38:641][859]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3601 classes and 859 folders.
+[2021.01.13-16.38.53:248][345]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.01.13-16.38.55:677][624]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/TopDownGameMode': Can't find file.
+[2021.01.13-16.38.55:677][624]LogLinker: Warning: Failed to load '/Game/TopDownBP/Blueprints/TopDownGameMode': Can't find file.
+[2021.01.13-16.38.55:677][624]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C'
+[2021.01.13-16.38.57:698][863]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.13-16.38.59:555][ 70]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.13-16.39.02:464][383]LogStaticMesh: Building static mesh 1M_Cube_Chamfer...
+[2021.01.13-16.39.02:610][383]LogStaticMesh: Built static mesh [0.14s] /Game/JayCollab/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2021.01.13-16.39.02:667][383]LogStaticMesh: Building static mesh 1M_Cube...
+[2021.01.13-16.39.02:701][383]LogStaticMesh: Built static mesh [0.03s] /Game/JayCollab/Geometry/Meshes/1M_Cube.1M_Cube
+[2021.01.13-16.39.30:093][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.01.13-16.39.30:117][569]LogAssetEditorSubsystem: Opening Asset editor for World /Game/JayCollab/Levels/TopDownExampleMap.TopDownExampleMap
+[2021.01.13-16.39.30:657][569]Cmd: MAP LOAD FILE="../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/JayCollab/Levels/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.13-16.39.30:658][569]LightingResults: New page: Lighting Build
+[2021.01.13-16.39.30:659][569]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 6 classes and 0 folders.
+[2021.01.13-16.39.30:659][569]LoadErrors: New page: Loading map: TopDownExampleMap.umap
+[2021.01.13-16.39.30:659][569]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.13-16.39.30:659][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-16.39.30:659][569]MapCheck: New page: Map Check
+[2021.01.13-16.39.30:659][569]LightingResults: New page: Lighting Build
+[2021.01.13-16.39.30:664][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.01.13-16.39.30:665][569]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.01.13-16.39.30:738][569]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.13-16.39.30:738][569]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.01.13-16.39.30:738][569]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.01.13-16.39.30:743][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.01.13-16.39.30:754][569]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.13-16.39.30:754][569]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2021.01.13-16.39.30:754][569]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.097
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: URL: C:\Users\jayde\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: URL: C:\Users\jayde\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.13-16.39.36:965][291]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.01.13-16.40.03:736][239]LogSlate: Took 0.025754 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.13-16.40.06:960][611]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.13-16.40.24:920][567]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.13-16.40.30:151][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.01.13-16.40.30:837][182]LogSlate: Window 'Save Content' being destroyed
+[2021.01.13-16.40.30:921][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JayCollab/Blueprints/Tech" FILE="../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/JayCollab/Blueprints/Tech.uasset" SILENT=true
+[2021.01.13-16.40.30:929][182]LogSavePackage: Moving '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Tech594D3AEA4E8FAFC95D31B9967C5D39C3.tmp' to '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/JayCollab/Blueprints/Tech.uasset'
+[2021.01.13-16.40.31:101][182]AssetCheck: New page: Asset Save: Tech
+[2021.01.13-16.40.31:101][182]LogContentValidation: Display: Validating Blueprint /Game/JayCollab/Blueprints/Tech.Tech
+[2021.01.13-16.40.59:784][905]SourceControl: fatal: D:/UE_4.26/Engine/Content: 'D:/UE_4.26/Engine/Content' is outside repository
+[2021.01.13-16.40.59:784][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'D:/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository
+[2021.01.13-16.40.59:784][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository
+[2021.01.13-16.40.59:784][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository
+[2021.01.13-16.40.59:784][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository
+[2021.01.13-16.40.59:784][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository
+[2021.01.13-16.40.59:784][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository
+[2021.01.13-16.40.59:784][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository
+[2021.01.13-16.40.59:784][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository
+[2021.01.13-16.40.59:784][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository
+[2021.01.13-16.40.59:785][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository
+[2021.01.13-16.40.59:785][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository
+[2021.01.13-16.40.59:785][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'D:/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository
+[2021.01.13-16.40.59:785][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository
+[2021.01.13-16.40.59:785][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository
+[2021.01.13-16.40.59:785][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository
+[2021.01.13-16.40.59:785][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository
+[2021.01.13-16.40.59:785][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository
+[2021.01.13-16.40.59:785][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository
+[2021.01.13-16.40.59:785][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository
+[2021.01.13-16.40.59:785][905]SourceControl: fatal: D:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository
+[2021.01.13-16.41.00:129][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JayCollab/BP_BaseCharacter" FILE="../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/JayCollab/BP_BaseCharacter.uasset" SILENT=true
+[2021.01.13-16.41.00:150][905]LogSavePackage: Moving '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/BP_BaseCharacter553B2B2F46D21CA8FFFF089B1E0C8CCC.tmp' to '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/JayCollab/BP_BaseCharacter.uasset'
+[2021.01.13-16.41.00:151][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JayCollab/GM_DevilishDiner" FILE="../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/JayCollab/GM_DevilishDiner.uasset" SILENT=true
+[2021.01.13-16.41.00:157][905]LogSavePackage: Moving '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/GM_DevilishDiner53CBFFAC478493BB7415D4A4A72C993B.tmp' to '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/JayCollab/GM_DevilishDiner.uasset'
+[2021.01.13-16.41.00:157][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JayCollab/Blueprints/Tech" FILE="../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/JayCollab/Blueprints/Tech.uasset" SILENT=true
+[2021.01.13-16.41.00:164][905]LogSavePackage: Moving '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/Tech36473A5E4166A7F6B77C4186B12F732C.tmp' to '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/JayCollab/Blueprints/Tech.uasset'
+[2021.01.13-16.41.00:168][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.01.13-16.41.00:190][905]LogSavePackage: Moving '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/TopDownExampleMap7B55F97E4D2AA20E23AFAFB98DEB39C8.tmp' to '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/JayCollab/Levels/TopDownExampleMap.umap'
+[2021.01.13-16.41.00:202][905]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.038
+[2021.01.13-16.41.00:285][905]LogSavePackage: Moving '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Saved/TopDownExampleMap_BuiltDataB0FA809E48EA5A022AB3E79D91ED870F.tmp' to '../../../../Uni/ThirdSemesterCollab/GameProjectDevDine/DevilishDiner-master/Content/JayCollab/Levels/TopDownExampleMap_BuiltData.uasset'
+[2021.01.13-16.41.11:579][905]LogSlate: Window 'Submit Files' being destroyed
+[2021.01.13-16.41.12:623][905]SourceControl: Error: warning: LF will be replaced by CRLF in DevilishDiner-master/DevilishDiner.uproject.
+[2021.01.13-16.41.12:623][905]SourceControl: Error: The file will have its original line endings in your working directory
+[2021.01.13-16.41.13:327][905]LogSourceControl: commit successful: [TechBranch 10cd8d5] TechPush
+[2021.01.13-16.41.13:524][905]SourceControl: Error: warning: LF will be replaced by CRLF in DevilishDiner-master/DevilishDiner.uproject.
+[2021.01.13-16.41.13:524][905]SourceControl: Error: The file will have its original line endings in your working directory
+[2021.01.13-16.41.13:524][905]SourceControl: [TechBranch 10cd8d5] TechPush
+[2021.01.13-16.41.13:524][905]SourceControl:  9 files changed, 6 insertions(+)
+[2021.01.13-16.41.13:524][905]SourceControl:  create mode 100644 DevilishDiner-master/Content/JayCollab/BP_BaseCharacter.uasset
+[2021.01.13-16.41.13:524][905]SourceControl:  create mode 100644 DevilishDiner-master/Content/JayCollab/BP_BaseController.uasset
+[2021.01.13-16.41.13:524][905]SourceControl:  create mode 100644 DevilishDiner-master/Content/JayCollab/Blueprints/BP_DamageParent.uasset
+[2021.01.13-16.41.13:524][905]SourceControl:  create mode 100644 DevilishDiner-master/Content/JayCollab/Blueprints/BP_DamageVolume.uasset
+[2021.01.13-16.41.13:524][905]SourceControl:  create mode 100644 DevilishDiner-master/Content/JayCollab/Blueprints/Tech.uasset
+[2021.01.13-16.41.13:524][905]SourceControl:  create mode 100644 DevilishDiner-master/Content/JayCollab/GM_DevilishDiner.uasset
+[2021.01.13-16.41.13:524][905]SourceControl:  create mode 100644 DevilishDiner-master/Content/JayCollab/Levels/TopDownExampleMap.umap
+[2021.01.13-16.41.13:524][905]SourceControl:  create mode 100644 DevilishDiner-master/Content/JayCollab/Levels/TopDownExampleMap_BuiltData.uasset
+[2021.01.13-16.41.13:524][905]SourceControl:  create mode 100644 DevilishDiner-master/DevilishDiner.uproject
+[2021.01.13-16.41.13:529][905]SourceControl: Commited [TechBranch 10cd8d5] TechPush.
+[2021.01.13-16.41.13:569][906]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.13-16.41.13:569][906]LogContentValidation: Display: Validating Blueprint /Game/JayCollab/GM_DevilishDiner.GM_DevilishDiner
+[2021.01.13-16.41.13:569][906]LogContentValidation: Display: Validating Blueprint /Game/JayCollab/BP_BaseCharacter.BP_BaseCharacter
+[2021.01.13-16.41.13:569][906]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/JayCollab/Levels/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.01.13-16.41.13:569][906]LogContentValidation: Display: Validating World /Game/JayCollab/Levels/TopDownExampleMap.TopDownExampleMap
+[2021.01.13-16.41.13:569][906]LogContentValidation: Display: Validating Blueprint /Game/JayCollab/Blueprints/Tech.Tech
+[2021.01.13-16.57.56:753][165]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.01.13-16.57.56:778][165]LogStaticMesh: Building static mesh TemplateFloor...
+[2021.01.13-16.57.56:779][165]LogStaticMesh: Built static mesh [0.00s] /Game/JayCollab/JayCollab/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2021.01.13-16.57.56:994][165]LogObjectTools: Deleting 1 worlds: /Game/JayCollab/JayCollab/Levels/TopDownExampleMap.TopDownExampleMap
+[2021.01.13-16.57.56:994][165]LogObjectTools: Currently 3 active worlds: /Game/JayCollab/Levels/TopDownExampleMap.TopDownExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2021.01.13-16.57.57:000][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.01.13-16.58.00:089][165]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.13-16.58.00:335][165]LogUObjectGlobals: Force Deleting 42 Package(s):
+	Asset Name: /Game/JayCollab/JayCollab/BP_BaseCharacter.BP_BaseCharacter
+	Asset Name: /Game/JayCollab/JayCollab/BP_BaseController.BP_BaseController
+	Asset Name: /Game/JayCollab/JayCollab/Blueprints/BP_DamageParent.BP_DamageParent
+	Asset Name: /Game/JayCollab/JayCollab/Blueprints/BP_DamageVolume.BP_DamageVolume
+	Asset Name: /Game/JayCollab/JayCollab/Geometry/Meshes/1M_Cube.1M_Cube
+	Asset Name: /Game/JayCollab/JayCollab/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+	Asset Name: /Game/JayCollab/JayCollab/Geometry/Meshes/CubeMaterial.CubeMaterial
+	Asset Name: /Game/JayCollab/JayCollab/Geometry/Meshes/TemplateFloor.TemplateFloor
+	Asset Name: /Game/JayCollab/JayCollab/Levels/TopDownExampleMap.TopDownExampleMap
+	Asset Name: /Game/JayCollab/JayCollab/Levels/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.01.13-16.58.02:144][165]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.13-16.58.02:144][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.13-16.58.03:590][165]LogSlate: Window 'Message' being destroyed
+[2021.01.13-16.58.03:594][165]Message dialog closed, result: Ok, title: Message, text: MapBuildDataRegistry /Game/JayCollab/JayCollab/Levels/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+Internal referencers of MapBuildDataRegistry /Game/JayCollab/JayCollab/Levels/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData:
+   TextureCube /Game/JayCollab/JayCollab/Levels/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData:DeprecatedTextureFA79271141B0C16E0AB806B8FE9AB1E1 (2)
+      0) ObjectProperty /Script/Engine.Texture:AssetImportData
+      1) [[native reference]]
+
+
+[2021.01.13-16.58.03:594][165]LogObjectTools: Warning: ForceDeleteObject failed to delete TopDownExampleMap_BuiltData, this package is now potentially corrupt
+[2021.01.13-16.58.04:599][165]LogSlate: Window 'Message' being destroyed
+[2021.01.13-16.58.04:603][165]Message dialog closed, result: Ok, title: Message, text: MapBuildDataRegistry /Game/JayCollab/Levels/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+Internal referencers of MapBuildDataRegistry /Game/JayCollab/Levels/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData:
+   TextureCube /Game/JayCollab/Levels/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData:DeprecatedTextureFA79271141B0C16E0AB806B8FE9AB1E1 (2)
+      0) ObjectProperty /Script/Engine.Texture:AssetImportData
+      1) [[native reference]]
+
+
+[2021.01.13-16.58.04:603][165]LogObjectTools: Warning: ForceDeleteObject failed to delete TopDownExampleMap_BuiltData, this package is now potentially corrupt
+[2021.01.13-16.58.05:159][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.01.13-16.58.05:165][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.01.13-16.58.05:169][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:172][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:176][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:179][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:183][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.01.13-16.58.05:186][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:190][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.13-16.58.05:193][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:196][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:199][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:203][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:206][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:209][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:213][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.13-16.58.05:216][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.13-16.58.05:220][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:224][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.01.13-16.58.05:228][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:232][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.01.13-16.58.05:236][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:239][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:243][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:246][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:249][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:252][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:256][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:259][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:262][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:266][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:269][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:272][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:275][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:278][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:281][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:284][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:288][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:291][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.01.13-16.58.05:295][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.01.13-16.58.05:298][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.01.13-16.58.05:856][165]SourceControl: Error: Updated 0 paths from the index
+[2021.01.13-16.58.06:406][165]SourceControl: Error: warning: could not open directory 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/': No such file or directory
+[2021.01.13-16.58.06:406][165]SourceControl: Error: warning: could not open directory 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/': No such file or directory
+[2021.01.13-16.58.06:406][165]SourceControl: Error: warning: could not open directory 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/': No such file or directory
+[2021.01.13-16.58.06:406][165]SourceControl: Error: warning: could not open directory 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/': No such file or directory
+[2021.01.13-16.58.06:406][165]SourceControl: Error: warning: could not open directory 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/': No such file or directory
+[2021.01.13-16.58.06:406][165]SourceControl: Error: warning: could not open directory 'DevilishDiner-master/Content/JayCollab/JayCollab/Geometry/': No such file or directory
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/BP_BaseCharacter.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Blueprints/BP_DamageParent.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Blueprints/BP_DamageVolume.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Geometry/Meshes/1M_Cube.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Geometry/Meshes/CubeMaterial.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Geometry/Meshes/TemplateFloor.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Levels/TopDownExampleMap.umap'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Animations/ThirdPersonJump_End.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Animations/ThirdPersonRun.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/MI_Female_Body.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/M_Male_Body.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Textures/T_Female_Mask.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Textures/T_Female_N.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Textures/T_Male_Mask.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Textures/T_Male_N.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset'
+[2021.01.13-16.58.06:406][165]SourceControl: rm 'DevilishDiner-master/Content/JayCollab/JayCollab/Mannequin/Character/Textures/T_UE4Logo_N.uasset'
+[2021.01.13-16.58.06:442][165]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.01.13-16.58.07:131][165]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.689 s
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: === Handled ensure: ===
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: 
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3142]
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: 
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: 					from the file system manually: 
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: /Game/JayCollab/JayCollab/Levels/TopDownExampleMap_BuiltData
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: /Game/JayCollab/Levels/TopDownExampleMap_BuiltData
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: Stack: 
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaa95b41d8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaa8e58a29 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaa85b3e89 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaa888f97e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaa8886e57 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3d685fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3d8077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3bc46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3c47f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3c30367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3c23642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaee1dbca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaee1c9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaee1de379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaee1c4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffb170be858 USER32.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffb170be299 USER32.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaee1df7a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3c52274 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3bed486 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaa891be1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffaa8e4c2e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffa851a6dd8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffa71517099 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffa7151729e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffa71507a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffa8310fc93 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffa83109142 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffa83187b22 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.13-16.58.07:131][165]LogOutputDevice: Error: [Callstack] 0x00007ffa8310cbb7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3d685fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3d8077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3bc46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3c47f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3c30367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffac3c23642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffaee1dbca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffaee1c9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffaee1de379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffaee1c4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffb170be858 USER32.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffb170be299 USER32.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffaee1df904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ff601bd87e7 UE4Editor.exe!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ff601bf113c UE4Editor.exe!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ff601bf121a UE4Editor.exe!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ff601c0527d UE4Editor.exe!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ff601c07faa UE4Editor.exe!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffb18827034 KERNEL32.DLL!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: [Callstack] 0x00007ffb18cfd0d1 ntdll.dll!UnknownFunction []
+[2021.01.13-16.58.07:132][165]LogOutputDevice: Error: 
