@@ -1,0 +1,8 @@
+FileVersion:2
+Type:Static
+Guid:031C4EEC-4BF9-81A9-50C4-B6B16BA2CA24
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/JayCollab/Blueprints/CleanableHazards/BP_BucketPickup.BP_BucketPickup
+/Game/JayCollab/Blueprints/CleanableHazards/BP_ExtinguisherPickup.BP_ExtinguisherPickup
+/Game/JayCollab/Blueprints/CleanableHazards/BP_MopPickup.BP_MopPickup
