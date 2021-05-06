@@ -3,3 +3,5 @@ Type:Static
 Guid:3863E33B-440E-F0EC-35FB-34978930FBAD
 ParentGuid:00000000-0000-0000-0000-000000000000
 
+/Game/JayCollab/AI/BP_CustomerExitLocations.BP_CustomerExitLocations
+/Game/JayCollab/AI/BP_CustomerSpawnLocations.BP_CustomerSpawnLocations
